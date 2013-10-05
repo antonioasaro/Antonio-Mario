@@ -31,7 +31,7 @@
             "type":"png",
             "defName":"IMAGE_GROUND_INVERSED",
             "file":"images/ground-inversed.png"
-        }
+        },
         {
             "defName": "WATCH_MENU_ICON",
             "type": "png",
