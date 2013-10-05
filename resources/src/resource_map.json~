@@ -32,10 +32,5 @@
             "defName":"IMAGE_GROUND_INVERSED",
             "file":"images/ground-inversed.png"
         }
-        {
-            "type":"png",
-            "defName":"IMAGE_MENU_ICON",
-            "file":"images/watch_menu_icon.png"
-        }
     ]
 }
