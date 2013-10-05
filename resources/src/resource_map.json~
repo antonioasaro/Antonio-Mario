@@ -34,7 +34,7 @@
         }
         {
             "type":"png",
-            "defName":"IMAGE_GROUND_INVERSED",
+            "defName":"IMAGE_MENU_ICON",
             "file":"images/watch_menu_icon.png"
         }
     ]
